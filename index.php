@@ -3,7 +3,7 @@ session_start();
 require('dbconnect.php');
 
 if(isset($_SESSION['id']) && $_SESSION['time'] + 3600 > time()){
-       //login.phpでセッション変数に保存したidがあり、かつログインして1時間いないの場合
+       //login.phpでセッション変数に保存したidがあり、かつログインして1時間いない場合
   $_SESSION['time'] = time();
        //セッションのtimeキーを現在時刻に上書きする
   $members = $db->prepare('SELECT * FROM members WHERE id=?');
