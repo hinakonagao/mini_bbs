@@ -1,4 +1,4 @@
-# 学習② ひとこと掲示板（udemyでの学習）
+## 学習② ひとこと掲示板（udemyでの学習）
 教材：PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門<br>
 https://www.udemy.com/share/101XkAAEYZeVpRRXkJ/
 <br><br>
