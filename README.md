@@ -1,14 +1,25 @@
-## ひとこと掲示板（udemyでの学習）
+# 学習② ひとこと掲示板（udemyでの学習）
 教材：PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門<br>
-https://www.udemy.com/course/php7basic/
+https://www.udemy.com/share/101XkAAEYZeVpRRXkJ/
 <br><br>
 
 ## 使用技術
-・PHP 7.3.11
-<br><br>
+・PHP 7.3.11<br>
+・MySQL<br>
+<br>
 
 ## 搭載機能
-
-<br><br>
+・会員登録<br>
+・写真のアップロード<br>
+・メッセージの投稿・編集・削除<br>
+・他の人のメッセージへの返信<br>
+<br>
 
 ## 学習内容
+・環境構築:MAMP<br>
+・PHPの基礎知識（データ型、変数、条件分岐、繰り返し処理、配列、カプセル化）<br>
+・オブジェクト指向（クラス、インスタンス、メソッド、継承、this、コンストラクタ）<br>
+・フォーム（GET・POSTメソッド、入力したデータの取得）<br>
+・Cookie、セッションに値を保存する<br>
+・テーブルのリレーション、データベース設計、正規化<br>
+・データ型・プライマリーキー・オートインクリメント<br>
